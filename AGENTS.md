@@ -49,6 +49,16 @@ A random or scripted policy is enough for the first milestone.
 - Add small verification commands as they become available.
 - Use the narrowest relevant test or build target.
 
+## Repository Workflow
+
+- Follow `_work/repo-workflow.md` for shared FLEY repository workflow.
+- Follow `_work/local-workflow.md` for NLE5-specific additions.
+- Keep executable work in `_work/plans/plans.csv` and `_work/todo.csv`.
+- Keep expanded task context in plan files or `_work/todo.md`.
+- Run `make check-work` after changing workflow surfaces.
+- Route organization policy and cross-repository coordination to `fley-org`.
+- Route controlled SOP, WI, CAPA, and Change Control work to `fley-qms`.
+
 ## Suggested First Codex Prompt
 
 ```text

@@ -41,5 +41,12 @@ a random or scripted rollout can run briefly
 
 - `nexus-alignment.md` records how this project should stay aligned with the
   Nexus engine work.
-- Add future plans or task files here only when the project has source code or
-  a vendored upstream NLE tree to coordinate.
+- `repo-workflow.md` is the point-of-work copy of the canonical FLEY repository
+  workflow.
+- `local-workflow.md` contains NLE5-specific workflow additions.
+- `plans/plans.csv` and `todo.csv` are the authoritative work dashboards.
+- `todo.md` contains expanded context for dashboard tasks when needed.
+- `codex-log.md` records durable session findings and workflow changes.
+
+Use plans and todos when executable work starts. Planning notes may remain
+outside the dashboards until they become an active work front.
